@@ -5,13 +5,13 @@ Docs at https://gmxio.gitbook.io/gmx/contracts.
 
 ## Install Dependencies
 If npx is not installed yet:
-`npm install -g npx`
+`npm install -g npx
 
 Install packages:
-`npm i`
+`npm i
 
 ## Compile Contracts
-`npx hardhat compile`
+`npx hardhat compile
 
 ## Run Tests
-`npx hardhat test`
+`npx hardhat test
